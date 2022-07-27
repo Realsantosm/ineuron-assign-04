@@ -115,3 +115,9 @@ span {
   color: #ffffff;
   margin: 40px 0 0 90px;
 }
+
+.nav-button.btn:hover {
+  background: transparent;
+  border: 1px solid #3944f7;
+  color: #3944f7;
+}
